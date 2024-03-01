@@ -1,6 +1,6 @@
 # <Your Name>'s Portfolio
 
-![Portfolio Screenshot](https://drive.google.com/file/d/1tsuSTKTeMX5Vi9rtOqiYWvUEIWFFzWvr/view?usp=drive_link)
+![Portfolio Screenshot](portfoliorm.png)
 
 ## Overview
 
