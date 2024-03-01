@@ -1,4 +1,4 @@
-# <Your Name>'s Portfolio
+# Thamizharasan's Portfolio
 
 ![Portfolio Screenshot](portfoliorm.png)
 
